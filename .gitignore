@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+output/
+.playwright/
+.playwright-cli/
+*.log
+
+# Local browser checks
+/tests/browser-animal-art.mjs
+/tests/browser-animal-heading.mjs
+/tests/browser-audio.mjs
+/tests/browser-bell.mjs
+/tests/browser-canal-seams.mjs
+/tests/browser-layout.mjs
+/tests/browser-mill-tail.mjs
+/tests/browser-naming.mjs
+/tests/browser-nature.mjs
+/tests/browser-ponds.mjs
+/tests/browser-reachability.mjs
+/tests/browser-smoke.mjs
+/tests/browser-spring.mjs
+/tests/browser-start-view.mjs
